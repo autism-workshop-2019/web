@@ -79,8 +79,8 @@ a:visited, a:hover {
   position: relative;
   background: #FFFFFF url("image_start-edit.png") no-repeat center top fixed;
   background-size: initial;
-  min-height: 500px;
-  max-height: 500px;
+  min-height: 400px;
+  max-height: 400px;
  }
  .content_contact {
   position: relative;
