@@ -77,7 +77,7 @@ a:visited, a:hover {
 
 .content {
   position: relative;
-  background: #000000 url("image_start-edit.png") no-repeat center top fixed;
+  background: #FFFFFF url("image_start-edit.png") no-repeat center top fixed;
   background-size: initial;
   min-height: 500px;
   max-height: 500px;
